@@ -1,36 +1,15 @@
-Portfólio Inicial
 
-Bem-vindo ao meu repositório! Sou estudante de Análise e Desenvolvimento de Sistemas com grande interesse em Cibersegurança. Estou iniciando minha jornada na área de Tecnologia da Informação e este espaço é dedicado aos meus primeiros projetos, estudos e aprendizados.
+ 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gu1306.peres@gmail.com) 
 
+ 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gustavo-P-A&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gustavo-P-A&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-P-A&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Sobre este Repositório
+---
+[![](https://visitcount.itsvg.in/api?id=Gustavo-P-A&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Este repositório reúne alguns dos meus primeiros projetos e materiais de estudo nas áreas de:
-
-- 🖥️ Desenvolvimento Web (HTML, CSS)
-- 🐍 Programação em Python
-- 🌐 Redes de Computadores
-- 🔐 Fundamentos de Cibersegurança
-
- 📂 Projetos
-
- 🌐 Site Simples com HTML e CSS
-Um site estático com estrutura básica e estilização simples, criado para praticar conceitos de front-end.
-
- 🧮 Calculadora em Python
-Script de calculadora com operações básicas (soma, subtração, multiplicação e divisão), desenvolvido para reforçar lógica de programação.
-
- 🌐 Resumo de Redes
-Anotações e esquemas sobre conceitos fundamentais de redes de computadores, como modelos OSI e TCP/IP, tipos de endereçamento, e protocolos.
-
- 🔐 Introdução à Cibersegurança *(em desenvolvimento)*
-Coletânea de estudos iniciais sobre segurança da informação, incluindo:
-- Conceitos de confidencialidade, integridade e disponibilidade (CIA)
-- Tipos de ataques cibernéticos (phishing, malware, DDoS)
-- Boas práticas de segurança digital
-
- 📫 Contato
-
-- 📧 Email: gu1306.peres@gmail.com  
-- 💼 LinkedIn: [Seu perfil aqui]  
-- 🧠 Em breve: [Link para meu GitHub Pages com portfólio online]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
